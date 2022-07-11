@@ -1,0 +1,5 @@
+*.pt
+.DS_Store
+Pods/*
+Podfile.lock
+stylegan3
