@@ -1,7 +1,7 @@
 # AdaptaboIs
 iOS On-device sampler from styleGAN2 pkl files
 
-![demo](https://media.giphy.com/media/ovdNR9naE3QZP0dwpC/giphy.gif)
+![demo](https://media.giphy.com/media/JSZa1nSLc0DYCBQCTc/giphy.gif)
 # Build
 
 1. `pod install`
